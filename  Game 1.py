@@ -11,6 +11,7 @@ def guessing_game():
 
     Show the tries left and tell the player if each guess is too low or
     too high. Show the number after a loss, then ask to play again.
+    Author: Zhaochun Fu (Rory)
     """
     play_again = "y"
 
